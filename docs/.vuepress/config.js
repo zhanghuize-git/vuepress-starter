@@ -2,6 +2,7 @@ module.exports = {
   title: 'Samba Blog',
   theme: 'reco',
   description: '老桑巴的博客，跟随讶羽（不是我不想打对，是mac拼音里没有ya羽那个ya）大佬搭建',
+  base: '/vuepress-starter/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
